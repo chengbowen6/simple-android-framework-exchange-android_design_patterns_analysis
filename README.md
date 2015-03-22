@@ -33,7 +33,6 @@
 |    [代理模式](proxy/singwhatiwanna)   | [singwhatiwanna](https://github.com/singwhatiwanna) |  完成  |
 |    [组合模式](composite/tiny-times)   | [tiny-times](https://github.com/tiny-times) |  撒丫子赶稿中 |
 |    [装饰模式](decorator/tiny-times)   | [tiny-times](https://github.com/tiny-times) |  撒丫子赶稿中  |
-|    [享元模式](flyweight/lvtea0105)   | [lvtea0105](https://github.com/lvtea0105) |  撒丫子赶稿中 |
 |    [迭代器模式](iterator/haoxiqiang) | [Haoxiqiang](https://github.com/Haoxiqiang)|  完成 |
 |    [责任链模式](chain-of-responsibility/AigeStudio) | [AigeStudio](https://github.com/AigeStudio)|  完成  |
 |    [状态模式](state/Thinan) | [Thinan](https://www.github.com/Thinan)|  撒丫子赶稿中  |
@@ -64,7 +63,6 @@
 |    装饰模式  	|   [decorator](decorator)	 	|
 | 	 外观模式	     |      [facade](facade)		|
 |    工厂方法模式  |  [factory-method](factory-method) |  
-|    享元模式  	 |    [flyweight](flyweight)	|
 | 	 解释器模式	 |  [interpreter](interpreter) |
 |    迭代器模式    |  [iterator](iterator)		|  
 |    中介者模式   |    [mediator](mediator)		|
